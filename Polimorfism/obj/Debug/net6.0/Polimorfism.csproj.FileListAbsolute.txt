@@ -1,0 +1,15 @@
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\bin\Debug\net6.0\Polimorfism.exe
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\bin\Debug\net6.0\Polimorfism.deps.json
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\bin\Debug\net6.0\Polimorfism.runtimeconfig.json
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\bin\Debug\net6.0\Polimorfism.dll
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\bin\Debug\net6.0\Polimorfism.pdb
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\obj\Debug\net6.0\Polimorfism.csproj.AssemblyReference.cache
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\obj\Debug\net6.0\Polimorfism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\obj\Debug\net6.0\Polimorfism.AssemblyInfoInputs.cache
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\obj\Debug\net6.0\Polimorfism.AssemblyInfo.cs
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\obj\Debug\net6.0\Polimorfism.csproj.CoreCompileInputs.cache
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\obj\Debug\net6.0\Polimorfism.dll
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\obj\Debug\net6.0\refint\Polimorfism.dll
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\obj\Debug\net6.0\Polimorfism.pdb
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\obj\Debug\net6.0\Polimorfism.genruntimeconfig.cache
+C:\Users\lesko\source\repos\Polimorfism\Polimorfism\obj\Debug\net6.0\ref\Polimorfism.dll

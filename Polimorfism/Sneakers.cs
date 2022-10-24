@@ -5,6 +5,7 @@ namespace Polimorfism
 {
      class Sneakers : Product
     {
+
         public int Size { get; set; }
 
         public Sneakers(string Name,string ProducingCountry, int Price,int Size)

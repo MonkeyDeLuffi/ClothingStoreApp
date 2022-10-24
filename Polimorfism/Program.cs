@@ -1,5 +1,8 @@
 ﻿using Polimorfism;
 using System.Reflection.Metadata;
+using System.Text;
+
+Console.OutputEncoding = UTF8Encoding.UTF8;
 
 var buyer = new Buyer
     (
